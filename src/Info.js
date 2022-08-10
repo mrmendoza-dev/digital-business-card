@@ -5,14 +5,15 @@ export default function Info() {
     <div className="Info">
       <p className="info-header">About</p>
       <p className="info-text">
-        I am a frontend developer with a particular interest in making things
-        simple and automating daily tasks. I try to keep up with security and
-        best practices, and am always looking for new things to learn.
+        I am a full stack web developer with a particlar interest in creating user
+        interfaces to streamline the user experience, saving time and energy.
+        I enjoy learning new technologies and skills to improve my own work
+        and become a more professional developer.
       </p>
       <p className="info-header">Interests</p>
       <p className="info-text">
-        Food expert. Music scholar. Reader. Internet fanatic. Bacon buff.
-        Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.
+        Cryptocurrency and NFT enthusiast. 3D Modeling and Printing. Web Development.
+        Electronics. Video Games. Music Lover and Amateur Musician.
       </p>
     </div>
   );

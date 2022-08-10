@@ -5,17 +5,20 @@ export default function Links() {
     <div className="Links">
       <li className="social-list__item">
         <a className="social-list__link" href="#">
-          <i className="fab fa-twitter"></i>
+          <i className="fab fa-twitter disabled-link"></i>
         </a>
       </li>
       <li className="social-list__item">
         <a className="social-list__link" href="#">
-          <i className="fab fa-facebook"></i>
+          <i className="fab fa-facebook disabled-link"></i>
         </a>
       </li>
       <li className="social-list__item">
-        <a className="social-list__link" href="#">
-          <i className="fab fa-instagram"></i>
+        <a
+          className="social-list__link"
+          href="https://medium.com/@mrmendoza171"
+        >
+          <i className="fab fa-medium"></i>
         </a>
       </li>
       <li className="social-list__item">

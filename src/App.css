@@ -70,8 +70,8 @@
   margin: 0 auto;
   margin-top: 1em;
   padding: .5em 1em;
-
   }
+
 
 
 
@@ -109,6 +109,9 @@ button {
   font-size: 10px;
   font-family: inherit;
   font-weight: 500;
+}
 
-
+.disabled-link {
+  color: rgb(83, 83, 83);
+  cursor: default;
 }
