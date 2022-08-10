@@ -16,7 +16,8 @@ export default function Links() {
       <li className="social-list__item">
         <a
           className="social-list__link"
-          href="https://medium.com/@mrmendoza171"
+          href="https://medium.com/@mrmendoza171/about"
+          target="_blank"
         >
           <i className="fab fa-medium"></i>
         </a>
