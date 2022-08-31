@@ -1,6 +1,4 @@
-import avatar from "./profile-pic.jpg";
-import "./App.css";
-
+import avatar from "../assets/profile-pic.jpg";
 
 export default function Avatar() {
   return (
